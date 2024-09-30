@@ -1,1 +1,1 @@
-# Google__G__icon
+# Google icon using HTML and CSS
